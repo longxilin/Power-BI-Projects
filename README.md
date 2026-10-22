@@ -54,8 +54,7 @@ A public-facing summary of hate crime trends across Ontario, built from Statisti
 
 Tracks monthly photo card renewals by method (in person vs. online) against a 20% online uptake target.
 
-**Scale**
-1 million records since 2020
+**Dataset Scale:** 1 million records since 2020
 
 **Highlights**
 - KPI cards with sparklines and a target comparison for online volume
@@ -70,8 +69,7 @@ Tracks monthly photo card renewals by method (in person vs. online) against a 20
 
 A parameter-driven report template that lets a user pull collision records for a chosen location and date range, then export them. Each template has the same four-page structure (Home, Map, Extract, Data Notes) and differs in how the location is defined.
 
-**Scale**
-30 million records since 2018
+**Dataset Scale:** 30 million records since 2018
 
 **Variants**
 - **Labelled by Highway**: select a highway and date range
@@ -120,8 +118,7 @@ A multi-report dashboard with a shared left-hand navigation bar, tracking adviso
 
 A tabbed report on Ontario's licensed driver population by age group and gender, with built-in guidance for users.
 
-**Scale**
-Approx. 70 million records
+**Dataset Scale:** Approx. 70 million records
 
 **Highlights**
 - Tab-style page navigation across multiple tables
